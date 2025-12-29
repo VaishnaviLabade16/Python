@@ -1,0 +1,8 @@
+a=10
+b=2
+print(a==b) #qual equal
+print(a!=b) #Not equal
+print(a<b) #Less than
+print(a>b) #Greter than
+print(a<=b) #less than equal
+print(a>=b) #greter than equal
